@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kabarjawa.github.io/jogjapost/sitemap.xml
